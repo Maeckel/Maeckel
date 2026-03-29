@@ -27,7 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Méthodes & Modélisation
+### Outils & Modélisation
 ![Merise](https://img.shields.io/badge/Merise-grey?style=flat-square)
 ![UML](https://img.shields.io/badge/UML-grey?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
