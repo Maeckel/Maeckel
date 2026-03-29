@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maeckel&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maeckel&layout=compact&theme=tokyonight" />
+</p>
+
 ## 👨‍💻 À propos de moi
 
 Étudiant en **Master 1 Informatique – Conception de systèmes & Cybersécurité** à l'**UPEC** (I.U.T. Sénart Fontainebleau), je suis passionné par le développement logiciel et la cybersécurité.
@@ -50,4 +55,8 @@
 - 🎓 **Licence Professionnelle – Systèmes d'information & Gestion de données** *(2024–2025)*  
   CNAM, Paris
   
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Maeckel&theme=tokyonight" />
 </p>
