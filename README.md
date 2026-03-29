@@ -45,9 +45,9 @@
 ## 🎓 Formations
 
 - 🎓 **Master Informatique – Conception de systèmes & Cybersécurité** *(2025–2027)*  
-  Université Paris-Est Créteil (UPEC)
+  Université Paris-Est Créteil (UPEC), Lieusaint
 
 - 🎓 **Licence Professionnelle – Systèmes d'information & Gestion de données** *(2024–2025)*  
   CNAM, Paris
-  📍 Émerainville (77)
+  
 </p>
