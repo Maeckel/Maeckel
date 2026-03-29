@@ -1,7 +1,7 @@
 > 🟢 **Disponible dès avril 2026** — Recherche un stage de 4 à 6 mois en développement / cybersécurité
 
 <p align="center">
-  <a href="https://linkedin.com/in/maeckel-damat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maeckel-damator/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:maeckeldamator@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://maeckel-damator.nicepage.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
