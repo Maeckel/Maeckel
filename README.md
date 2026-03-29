@@ -64,4 +64,4 @@
   <img src="https://streak-stats.demolab.com?user=Maeckel&theme=tokyonight" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maeckel&layout=donut&theme=tokyonight)](https://github.com/Maeckel)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maeckel&theme=tokyonight)
