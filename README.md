@@ -1,3 +1,5 @@
+🇫🇷 [Français](#français) | 🇬🇧 [English](#english)
+
 > 🟢 **Disponible dès avril 2026** — Recherche un stage de 4 à 6 mois en développement / cybersécurité
 
 <p align="center">
