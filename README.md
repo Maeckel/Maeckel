@@ -8,8 +8,11 @@
   <a href="https://maeckel-damator.nicepage.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
-## 👨‍💻 À propos de moi
+---
 
+## Français
+
+## 👨‍💻 À propos de moi
 Étudiant en **Master 1 Informatique – Conception de systèmes & Cybersécurité** à l'**UPEC** (I.U.T. Sénart Fontainebleau), je suis passionné par le développement logiciel et la cybersécurité.
 
 ---
@@ -53,14 +56,66 @@
 ---
 
 ## 🎓 Formations
-
 - 🎓 **Master Informatique – Conception de systèmes & Cybersécurité** *(2025–2027)*  
   Université Paris-Est Créteil (UPEC), Lieusaint
-
 - 🎓 **Licence Professionnelle – Systèmes d'information & Gestion de données** *(2024–2025)*  
   CNAM, Paris
-  
-</p>
+
+---
+---
+
+## English
+
+> 🟢 **Available from April 2026** — Looking for a 4 to 6 month internship in development / cybersecurity
+
+## 👨‍💻 About me
+I'm a **Master's student in Computer Science – Systems Design & Cybersecurity** at **UPEC** (I.U.T. Sénart Fontainebleau), passionate about software development and cybersecurity.
+
+---
+
+## 🛠️ Tech stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Tools & Modeling
+![Merise](https://img.shields.io/badge/Merise-grey?style=flat-square)
+![UML](https://img.shields.io/badge/UML-grey?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 📚 Currently learning
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🏆 **Sports betting** | Sports betting prediction application | Java · Hibernate · MySQL · HTML/CSS · Git |
+| 🚗 **Carpooling** | Mobile carpooling application | Java · Android Studio · SQLite · XML |
+| 🎮 **Online game** | Online multiplayer game application | Java · MySQL · HTML/CSS · NetBeans |
+
+---
+
+## 🎓 Education
+- 🎓 **Master's in Computer Science – Systems Design & Cybersecurity** *(2025–2027)*  
+  Université Paris-Est Créteil (UPEC), Lieusaint
+- 🎓 **Bachelor's in Computer Science – Information Systems & Data Management** *(2024–2025)*  
+  CNAM, Paris
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Maeckel&theme=tokyonight" />
